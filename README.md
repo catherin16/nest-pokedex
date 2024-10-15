@@ -57,6 +57,13 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
+tener instalado Nest CLI
+
+npm i -g @nestjs/cli
+
+levantar la base de datos
+
+docker-compose up -d
 
 ## Resources
 
